@@ -25,11 +25,11 @@ This project is a **C++ hospital triage system** created as part of my **Data St
 
 ### File Structure:
 Hospital-Triage-System
-  ─ p3.cpp                     # Main driver program (UI and logic)
-  ─ Patient.h                  # Patient class for managing patient data
-  ─ PatientPriorityQueue.h     # Priority queue implementation using a heap
-  ─ commands.txt               # Sample input file with commands
-  ─ README.md                  # Project documentation
+  - p3.cpp                     # Main driver program (UI and logic)
+  - Patient.h                  # Patient class for managing patient data
+  - PatientPriorityQueue.h     # Priority queue implementation using a heap
+  - commands.txt               # Sample input file with commands
+  - README.md                  # Project documentation
 
 ### Key Concepts Learned
   - Heap Data Structures: Implementing a priority queue using a heap for efficient ordering.
